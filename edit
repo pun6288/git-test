@@ -1,0 +1,29 @@
+[33mcommit ce1b5f0a63280cfdbe0b35b7757128e212967187[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Puneet Srivastava <puneetsrivastava@enstoa.com>
+Date:   Wed Apr 27 05:27:38 2022 +0530
+
+    adding multiple files
+
+[33mcommit deee3fc6cdc44d29327fb04919f43ca919cde74b[m
+Author: Puneet Srivastava <puneetsrivastava@enstoa.com>
+Date:   Wed Apr 27 05:25:27 2022 +0530
+
+    adding another file from local
+
+[33mcommit 7aface55e53eafc027cb2526c2ddf3598ea40537[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: pun6288 <52025439+pun6288@users.noreply.github.com>
+Date:   Tue Apr 26 17:04:58 2022 +0530
+
+    Create test.txt
+
+[33mcommit 5d1d4ad005d7e9c4912b1f03b70f4a0c10632a3f[m
+Author: pun6288 <52025439+pun6288@users.noreply.github.com>
+Date:   Tue Apr 26 16:44:12 2022 +0530
+
+    Update README.md
+
+[33mcommit 5ada883e0214dbcbb6c3d68158c60ead06898e4a[m
+Author: pun6288 <52025439+pun6288@users.noreply.github.com>
+Date:   Tue Apr 26 16:43:34 2022 +0530
+
+    Initial commit
